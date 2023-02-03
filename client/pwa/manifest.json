@@ -1,0 +1,17 @@
+{
+  "short_name": "Helix",
+  "name": "Helix",
+  "decsription": "Habit tracking app",
+  "lang": "en-US",
+  "icons": [
+    {
+      "src": "/img/logo_512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#282c37",
+  "background_color": "#282c37"
+}
